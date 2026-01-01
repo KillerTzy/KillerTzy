@@ -1,5 +1,3 @@
 {
-  "maintenance": true,
-  "reason": "Maintenance sistem untuk peningkatan performa dan keamanan",
-  "until": "Diperkirakan selesai hari ini"
+  "maintenance": false, 
 }
